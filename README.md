@@ -1,5 +1,7 @@
 # Mobius-2022-Spring
 ## Резюме
+[iOS Developer Resume Examples](https://www.raywenderlich.com/2617-ios-developer-resume-examples)
+
 ## Сопроводительное письмо
 ## Техническое интервью
 ## Алгоритмическая секция
